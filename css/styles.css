@@ -1,0 +1,41 @@
+.logo {
+	height: 50px;
+}
+
+.img-responsive {
+	width: 100%;
+}
+
+.logo {
+	margin-top: 30px;
+	margin-left: 10px;
+}
+
+@media screen and (min-width: 500px) {
+	.header {
+		display: inline-flex;
+	}
+}
+
+.hr {
+	border-top: 2px solid #7d97ad;
+	width: 100%;
+	margin-bottom: 20px;
+
+}
+
+
+#name-title {
+	font-weight: 300;
+
+}
+
+#fav-heroes {
+	color: #7d97ad;
+}
+
+body {
+	font-family: "Lato", sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+}
